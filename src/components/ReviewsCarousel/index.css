@@ -1,0 +1,40 @@
+.main-con {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  height: 100vh;
+  padding-top: 250px;
+  margin: auto;
+  font-family: 'Roboto';
+}
+
+.heading {
+  color: white;
+  font-size: 35px;
+}
+
+.carousel {
+  display: flex;
+  align-items: center;
+}
+
+.btn {
+  background: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+.review-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p.username {
+  color: white;
+  font-size: 20px;
+}
+
+p {
+  color: #171f46;
+}
